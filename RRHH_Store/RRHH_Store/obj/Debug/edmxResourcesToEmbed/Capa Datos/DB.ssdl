@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RRHH_STOREModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Administrador">
+    <Key>
+      <PropertyRef Name="id_usuario" />
+    </Key>
+    <Property Name="id_usuario" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="usuario" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="contraseña" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="legajo" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="activo" Type="bit" />
+    <Property Name="admin_personaID" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Disciplina">
+    <Key>
+      <PropertyRef Name="idDisciplina" />
+    </Key>
+    <Property Name="idDisciplina" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombreDisciplina" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="activo" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Disponibilidad">
+    <Key>
+      <PropertyRef Name="idDisponibilidad" />
+    </Key>
+    <Property Name="idDisponibilidad" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="estadoDisponibilidad" Type="varchar" MaxLength="16" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EstadoCivil">
+    <Key>
+      <PropertyRef Name="idEstadoCivil" />
+    </Key>
+    <Property Name="idEstadoCivil" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombreEstadoCivil" Type="varchar" MaxLength="22" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EstadoNivelEduc">
+    <Key>
+      <PropertyRef Name="idEstadoNivelEduc" />
+    </Key>
+    <Property Name="idEstadoNivelEduc" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombreEstadoNivelEduc" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EstadoPostulante">
+    <Key>
+      <PropertyRef Name="idEstadoPostulante" />
+    </Key>
+    <Property Name="idEstadoPostulante" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombreEstadoPostulante" Type="varchar" MaxLength="150" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NivelEducativo">
+    <Key>
+      <PropertyRef Name="id_Nivel" />
+    </Key>
+    <Property Name="id_Nivel" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreNivel" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Perfil">
+    <Key>
+      <PropertyRef Name="idPerfil" />
+    </Key>
+    <Property Name="idPerfil" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="disciplinaID" Type="bigint" />
+    <Property Name="tipoPostulanteID" Type="bigint" />
+    <Property Name="estadoPostulanteID" Type="bigint" />
+    <Property Name="PuntuaciónTotal" Type="int" />
+    <Property Name="activo" Type="bit" />
+    <Property Name="PerfilPsicologico_id" Type="bigint" />
+    <Property Name="PerfilAcademico_id" Type="bigint" />
+    <Property Name="PerfilProfesional_id" Type="bigint" />
+  </EntityType>
+  <EntityType Name="PerfilAcademico">
+    <Key>
+      <PropertyRef Name="idPerfilAcademico" />
+    </Key>
+    <Property Name="idPerfilAcademico" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Academico_NivelID" Type="bigint" />
+    <Property Name="estadoNivelID" Type="bigint" />
+    <Property Name="Titulo" Type="varchar" MaxLength="150" />
+    <Property Name="Establecimiento" Type="varchar" MaxLength="150" />
+    <Property Name="cursosRelacionados" Type="bit" />
+    <Property Name="nombreArchivo" Type="varchar" MaxLength="200" />
+    <Property Name="certificacion" Type="varbinary(max)" />
+    <Property Name="puntaje" Type="int" />
+    <Property Name="activo" Type="bit" />
+  </EntityType>
+  <EntityType Name="PerfilProfesional">
+    <Key>
+      <PropertyRef Name="idProfesional" />
+    </Key>
+    <Property Name="idProfesional" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LinkedIn" Type="varchar" MaxLength="250" />
+    <Property Name="Experiencia" Type="bit" />
+    <Property Name="AñosExperiencia" Type="int" />
+    <Property Name="Lugar_Empresa" Type="varchar" MaxLength="100" />
+    <Property Name="DescripcionPuesto" Type="varchar" MaxLength="250" />
+    <Property Name="PeriodoInicio" Type="int" />
+    <Property Name="PeriodoFin" Type="int" />
+    <Property Name="nombreArchivo" Type="varchar" MaxLength="200" />
+    <Property Name="cv" Type="varbinary(max)" />
+    <Property Name="puntaje" Type="int" />
+    <Property Name="activo" Type="bit" />
+  </EntityType>
+  <EntityType Name="PerfilPsicologico">
+    <Key>
+      <PropertyRef Name="idPsicologico" />
+    </Key>
+    <Property Name="idPsicologico" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="apto" Type="bit" />
+    <Property Name="descripcion" Type="varchar" MaxLength="400" />
+    <Property Name="puntaje" Type="int" />
+    <Property Name="activo" Type="bit" />
+  </EntityType>
+  <EntityType Name="Persona">
+    <Key>
+      <PropertyRef Name="idPersona" />
+    </Key>
+    <Property Name="idPersona" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="apellido" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="nacionalidad" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="dni" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="fechaNacimiento" Type="datetime" Nullable="false" />
+    <Property Name="telefono" Type="varchar" MaxLength="12" Nullable="false" />
+    <Property Name="domicilio" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="mail" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="telFijo" Type="varchar" MaxLength="12" />
+    <Property Name="telAlternativo" Type="varchar" MaxLength="12" />
+    <Property Name="hijos" Type="bit" />
+    <Property Name="cantHijos" Type="int" />
+    <Property Name="foto" Type="image" />
+    <Property Name="activa" Type="bit" Nullable="false" />
+    <Property Name="disponibilidadID" Type="bigint" Nullable="false" />
+    <Property Name="estadoCivilID" Type="bigint" Nullable="false" />
+    <Property Name="sexoID" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Postulante">
+    <Key>
+      <PropertyRef Name="idPostulante" />
+    </Key>
+    <Property Name="idPostulante" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fechaRegistro" Type="datetime" Nullable="false" />
+    <Property Name="Perfil_id" Type="bigint" Nullable="false" />
+    <Property Name="Persona_Id" Type="bigint" Nullable="false" />
+    <Property Name="activo" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sexo">
+    <Key>
+      <PropertyRef Name="idSexo" />
+    </Key>
+    <Property Name="idSexo" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombreSexo" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="activo" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TipoPostulante">
+    <Key>
+      <PropertyRef Name="idTipoPostulante" />
+    </Key>
+    <Property Name="idTipoPostulante" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombreTipoPostulante" Type="varchar" MaxLength="25" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Disciplina_Perfil">
+    <End Role="Disciplina" Type="Self.Disciplina" Multiplicity="0..1" />
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Disciplina">
+        <PropertyRef Name="idDisciplina" />
+      </Principal>
+      <Dependent Role="Perfil">
+        <PropertyRef Name="disciplinaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Disponibilidad_Persona">
+    <End Role="Disponibilidad" Type="Self.Disponibilidad" Multiplicity="1" />
+    <End Role="Persona" Type="Self.Persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Disponibilidad">
+        <PropertyRef Name="idDisponibilidad" />
+      </Principal>
+      <Dependent Role="Persona">
+        <PropertyRef Name="disponibilidadID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EstadoCivil_Persona">
+    <End Role="EstadoCivil" Type="Self.EstadoCivil" Multiplicity="1" />
+    <End Role="Persona" Type="Self.Persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EstadoCivil">
+        <PropertyRef Name="idEstadoCivil" />
+      </Principal>
+      <Dependent Role="Persona">
+        <PropertyRef Name="estadoCivilID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EstadoNivel_PerfilAcademico">
+    <End Role="EstadoNivelEduc" Type="Self.EstadoNivelEduc" Multiplicity="0..1" />
+    <End Role="PerfilAcademico" Type="Self.PerfilAcademico" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EstadoNivelEduc">
+        <PropertyRef Name="idEstadoNivelEduc" />
+      </Principal>
+      <Dependent Role="PerfilAcademico">
+        <PropertyRef Name="estadoNivelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EstadoPostulante_Perfil">
+    <End Role="EstadoPostulante" Type="Self.EstadoPostulante" Multiplicity="0..1" />
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EstadoPostulante">
+        <PropertyRef Name="idEstadoPostulante" />
+      </Principal>
+      <Dependent Role="Perfil">
+        <PropertyRef Name="estadoPostulanteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_idPersona">
+    <End Role="Persona" Type="Self.Persona" Multiplicity="1" />
+    <End Role="Administrador" Type="Self.Administrador" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="idPersona" />
+      </Principal>
+      <Dependent Role="Administrador">
+        <PropertyRef Name="admin_personaID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Nivel_PerfilAcademico">
+    <End Role="NivelEducativo" Type="Self.NivelEducativo" Multiplicity="0..1" />
+    <End Role="PerfilAcademico" Type="Self.PerfilAcademico" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NivelEducativo">
+        <PropertyRef Name="id_Nivel" />
+      </Principal>
+      <Dependent Role="PerfilAcademico">
+        <PropertyRef Name="Academico_NivelID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Perfil_PerfilAcademico">
+    <End Role="PerfilAcademico" Type="Self.PerfilAcademico" Multiplicity="0..1" />
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PerfilAcademico">
+        <PropertyRef Name="idPerfilAcademico" />
+      </Principal>
+      <Dependent Role="Perfil">
+        <PropertyRef Name="PerfilAcademico_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Perfil_PerfilProfesional">
+    <End Role="PerfilProfesional" Type="Self.PerfilProfesional" Multiplicity="0..1" />
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PerfilProfesional">
+        <PropertyRef Name="idProfesional" />
+      </Principal>
+      <Dependent Role="Perfil">
+        <PropertyRef Name="PerfilProfesional_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Perfil_PerfilPsicologico_id">
+    <End Role="PerfilPsicologico" Type="Self.PerfilPsicologico" Multiplicity="0..1" />
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PerfilPsicologico">
+        <PropertyRef Name="idPsicologico" />
+      </Principal>
+      <Dependent Role="Perfil">
+        <PropertyRef Name="PerfilPsicologico_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Postulante_Perfil">
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="1" />
+    <End Role="Postulante" Type="Self.Postulante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Perfil">
+        <PropertyRef Name="idPerfil" />
+      </Principal>
+      <Dependent Role="Postulante">
+        <PropertyRef Name="Perfil_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Postulante_Persona">
+    <End Role="Persona" Type="Self.Persona" Multiplicity="1" />
+    <End Role="Postulante" Type="Self.Postulante" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Persona">
+        <PropertyRef Name="idPersona" />
+      </Principal>
+      <Dependent Role="Postulante">
+        <PropertyRef Name="Persona_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sexo_Persona">
+    <End Role="Sexo" Type="Self.Sexo" Multiplicity="1" />
+    <End Role="Persona" Type="Self.Persona" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sexo">
+        <PropertyRef Name="idSexo" />
+      </Principal>
+      <Dependent Role="Persona">
+        <PropertyRef Name="sexoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TipoPostulante_Perfil">
+    <End Role="TipoPostulante" Type="Self.TipoPostulante" Multiplicity="0..1" />
+    <End Role="Perfil" Type="Self.Perfil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TipoPostulante">
+        <PropertyRef Name="idTipoPostulante" />
+      </Principal>
+      <Dependent Role="Perfil">
+        <PropertyRef Name="tipoPostulanteID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RRHH_STOREModelStoreContainer">
+    <EntitySet Name="Administrador" EntityType="Self.Administrador" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Disciplina" EntityType="Self.Disciplina" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Disponibilidad" EntityType="Self.Disponibilidad" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EstadoCivil" EntityType="Self.EstadoCivil" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EstadoNivelEduc" EntityType="Self.EstadoNivelEduc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EstadoPostulante" EntityType="Self.EstadoPostulante" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NivelEducativo" EntityType="Self.NivelEducativo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Perfil" EntityType="Self.Perfil" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PerfilAcademico" EntityType="Self.PerfilAcademico" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PerfilProfesional" EntityType="Self.PerfilProfesional" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PerfilPsicologico" EntityType="Self.PerfilPsicologico" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Persona" EntityType="Self.Persona" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Postulante" EntityType="Self.Postulante" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sexo" EntityType="Self.Sexo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TipoPostulante" EntityType="Self.TipoPostulante" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Disciplina_Perfil" Association="Self.FK_Disciplina_Perfil">
+      <End Role="Disciplina" EntitySet="Disciplina" />
+      <End Role="Perfil" EntitySet="Perfil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Disponibilidad_Persona" Association="Self.FK_Disponibilidad_Persona">
+      <End Role="Disponibilidad" EntitySet="Disponibilidad" />
+      <End Role="Persona" EntitySet="Persona" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EstadoCivil_Persona" Association="Self.FK_EstadoCivil_Persona">
+      <End Role="EstadoCivil" EntitySet="EstadoCivil" />
+      <End Role="Persona" EntitySet="Persona" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EstadoNivel_PerfilAcademico" Association="Self.FK_EstadoNivel_PerfilAcademico">
+      <End Role="EstadoNivelEduc" EntitySet="EstadoNivelEduc" />
+      <End Role="PerfilAcademico" EntitySet="PerfilAcademico" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EstadoPostulante_Perfil" Association="Self.FK_EstadoPostulante_Perfil">
+      <End Role="EstadoPostulante" EntitySet="EstadoPostulante" />
+      <End Role="Perfil" EntitySet="Perfil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_idPersona" Association="Self.FK_idPersona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Administrador" EntitySet="Administrador" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Nivel_PerfilAcademico" Association="Self.FK_Nivel_PerfilAcademico">
+      <End Role="NivelEducativo" EntitySet="NivelEducativo" />
+      <End Role="PerfilAcademico" EntitySet="PerfilAcademico" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Perfil_PerfilAcademico" Association="Self.FK_Perfil_PerfilAcademico">
+      <End Role="PerfilAcademico" EntitySet="PerfilAcademico" />
+      <End Role="Perfil" EntitySet="Perfil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Perfil_PerfilProfesional" Association="Self.FK_Perfil_PerfilProfesional">
+      <End Role="PerfilProfesional" EntitySet="PerfilProfesional" />
+      <End Role="Perfil" EntitySet="Perfil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Perfil_PerfilPsicologico_id" Association="Self.FK_Perfil_PerfilPsicologico_id">
+      <End Role="PerfilPsicologico" EntitySet="PerfilPsicologico" />
+      <End Role="Perfil" EntitySet="Perfil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Postulante_Perfil" Association="Self.FK_Postulante_Perfil">
+      <End Role="Perfil" EntitySet="Perfil" />
+      <End Role="Postulante" EntitySet="Postulante" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Postulante_Persona" Association="Self.FK_Postulante_Persona">
+      <End Role="Persona" EntitySet="Persona" />
+      <End Role="Postulante" EntitySet="Postulante" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sexo_Persona" Association="Self.FK_Sexo_Persona">
+      <End Role="Sexo" EntitySet="Sexo" />
+      <End Role="Persona" EntitySet="Persona" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TipoPostulante_Perfil" Association="Self.FK_TipoPostulante_Perfil">
+      <End Role="TipoPostulante" EntitySet="TipoPostulante" />
+      <End Role="Perfil" EntitySet="Perfil" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

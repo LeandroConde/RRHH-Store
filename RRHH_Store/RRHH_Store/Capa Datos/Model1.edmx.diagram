@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="272c750de1c044409baa2847657c085a" Name="Diagram1">
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.Administrador" Width="1.5" PointX="7.5" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.Disciplina" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.Disponibilidad" Width="1.5" PointX="3" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.EstadoCivil" Width="1.5" PointX="3" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.EstadoNivelEduc" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.EstadoPostulante" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.NivelEducativo" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.Perfil" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.PerfilAcademico" Width="1.5" PointX="3" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.PerfilProfesional" Width="1.5" PointX="3" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.PerfilPsicologico" Width="1.5" PointX="3" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.Persona" Width="1.5" PointX="5.25" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.Postulante" Width="1.5" PointX="7.5" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.Sexo" Width="1.5" PointX="3" PointY="26.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RRHH_STOREFINALModel.TipoPostulante" Width="1.5" PointX="3" PointY="19.125" IsExpanded="true" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_idPersona" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Disciplina_Perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Disponibilidad_Persona" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_EstadoCivil_Persona" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_EstadoNivel_PerfilAcademico" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_EstadoPostulante_Perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Nivel_PerfilAcademico" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Perfil_PerfilAcademico" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Perfil_PerfilProfesional" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Perfil_PerfilPsicologico_id" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Postulante_Perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_TipoPostulante_Perfil" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Postulante_Persona" ManuallyRouted="false" />
+        <AssociationConnector Association="RRHH_STOREFINALModel.FK_Sexo_Persona" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

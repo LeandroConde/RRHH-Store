@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RRHH_STOREModelStoreContainer" CdmEntityContainer="RRHH_STOREEntities">
+    <EntitySetMapping Name="Administrador">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.Administrador">
+        <MappingFragment StoreEntitySet="Administrador">
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="usuario" ColumnName="usuario" />
+          <ScalarProperty Name="contraseña" ColumnName="contraseña" />
+          <ScalarProperty Name="legajo" ColumnName="legajo" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+          <ScalarProperty Name="admin_personaID" ColumnName="admin_personaID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Disciplina">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.Disciplina">
+        <MappingFragment StoreEntitySet="Disciplina">
+          <ScalarProperty Name="idDisciplina" ColumnName="idDisciplina" />
+          <ScalarProperty Name="nombreDisciplina" ColumnName="nombreDisciplina" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Disponibilidad">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.Disponibilidad">
+        <MappingFragment StoreEntitySet="Disponibilidad">
+          <ScalarProperty Name="idDisponibilidad" ColumnName="idDisponibilidad" />
+          <ScalarProperty Name="estadoDisponibilidad" ColumnName="estadoDisponibilidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EstadoCivil">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.EstadoCivil">
+        <MappingFragment StoreEntitySet="EstadoCivil">
+          <ScalarProperty Name="idEstadoCivil" ColumnName="idEstadoCivil" />
+          <ScalarProperty Name="nombreEstadoCivil" ColumnName="nombreEstadoCivil" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EstadoNivelEduc">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.EstadoNivelEduc">
+        <MappingFragment StoreEntitySet="EstadoNivelEduc">
+          <ScalarProperty Name="idEstadoNivelEduc" ColumnName="idEstadoNivelEduc" />
+          <ScalarProperty Name="nombreEstadoNivelEduc" ColumnName="nombreEstadoNivelEduc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EstadoPostulante">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.EstadoPostulante">
+        <MappingFragment StoreEntitySet="EstadoPostulante">
+          <ScalarProperty Name="idEstadoPostulante" ColumnName="idEstadoPostulante" />
+          <ScalarProperty Name="nombreEstadoPostulante" ColumnName="nombreEstadoPostulante" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NivelEducativo">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.NivelEducativo">
+        <MappingFragment StoreEntitySet="NivelEducativo">
+          <ScalarProperty Name="id_Nivel" ColumnName="id_Nivel" />
+          <ScalarProperty Name="NombreNivel" ColumnName="NombreNivel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Perfil">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.Perfil">
+        <MappingFragment StoreEntitySet="Perfil">
+          <ScalarProperty Name="idPerfil" ColumnName="idPerfil" />
+          <ScalarProperty Name="disciplinaID" ColumnName="disciplinaID" />
+          <ScalarProperty Name="tipoPostulanteID" ColumnName="tipoPostulanteID" />
+          <ScalarProperty Name="estadoPostulanteID" ColumnName="estadoPostulanteID" />
+          <ScalarProperty Name="PuntuaciónTotal" ColumnName="PuntuaciónTotal" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+          <ScalarProperty Name="PerfilPsicologico_id" ColumnName="PerfilPsicologico_id" />
+          <ScalarProperty Name="PerfilAcademico_id" ColumnName="PerfilAcademico_id" />
+          <ScalarProperty Name="PerfilProfesional_id" ColumnName="PerfilProfesional_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PerfilAcademico">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.PerfilAcademico">
+        <MappingFragment StoreEntitySet="PerfilAcademico">
+          <ScalarProperty Name="idPerfilAcademico" ColumnName="idPerfilAcademico" />
+          <ScalarProperty Name="Academico_NivelID" ColumnName="Academico_NivelID" />
+          <ScalarProperty Name="estadoNivelID" ColumnName="estadoNivelID" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Establecimiento" ColumnName="Establecimiento" />
+          <ScalarProperty Name="cursosRelacionados" ColumnName="cursosRelacionados" />
+          <ScalarProperty Name="nombreArchivo" ColumnName="nombreArchivo" />
+          <ScalarProperty Name="certificacion" ColumnName="certificacion" />
+          <ScalarProperty Name="puntaje" ColumnName="puntaje" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PerfilProfesional">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.PerfilProfesional">
+        <MappingFragment StoreEntitySet="PerfilProfesional">
+          <ScalarProperty Name="idProfesional" ColumnName="idProfesional" />
+          <ScalarProperty Name="LinkedIn" ColumnName="LinkedIn" />
+          <ScalarProperty Name="Experiencia" ColumnName="Experiencia" />
+          <ScalarProperty Name="AñosExperiencia" ColumnName="AñosExperiencia" />
+          <ScalarProperty Name="Lugar_Empresa" ColumnName="Lugar_Empresa" />
+          <ScalarProperty Name="DescripcionPuesto" ColumnName="DescripcionPuesto" />
+          <ScalarProperty Name="PeriodoInicio" ColumnName="PeriodoInicio" />
+          <ScalarProperty Name="PeriodoFin" ColumnName="PeriodoFin" />
+          <ScalarProperty Name="nombreArchivo" ColumnName="nombreArchivo" />
+          <ScalarProperty Name="cv" ColumnName="cv" />
+          <ScalarProperty Name="puntaje" ColumnName="puntaje" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PerfilPsicologico">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.PerfilPsicologico">
+        <MappingFragment StoreEntitySet="PerfilPsicologico">
+          <ScalarProperty Name="idPsicologico" ColumnName="idPsicologico" />
+          <ScalarProperty Name="apto" ColumnName="apto" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="puntaje" ColumnName="puntaje" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Persona">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.Persona">
+        <MappingFragment StoreEntitySet="Persona">
+          <ScalarProperty Name="idPersona" ColumnName="idPersona" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="nacionalidad" ColumnName="nacionalidad" />
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="fechaNacimiento" ColumnName="fechaNacimiento" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="domicilio" ColumnName="domicilio" />
+          <ScalarProperty Name="mail" ColumnName="mail" />
+          <ScalarProperty Name="telFijo" ColumnName="telFijo" />
+          <ScalarProperty Name="telAlternativo" ColumnName="telAlternativo" />
+          <ScalarProperty Name="hijos" ColumnName="hijos" />
+          <ScalarProperty Name="cantHijos" ColumnName="cantHijos" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="activa" ColumnName="activa" />
+          <ScalarProperty Name="disponibilidadID" ColumnName="disponibilidadID" />
+          <ScalarProperty Name="estadoCivilID" ColumnName="estadoCivilID" />
+          <ScalarProperty Name="sexoID" ColumnName="sexoID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Postulante">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.Postulante">
+        <MappingFragment StoreEntitySet="Postulante">
+          <ScalarProperty Name="idPostulante" ColumnName="idPostulante" />
+          <ScalarProperty Name="fechaRegistro" ColumnName="fechaRegistro" />
+          <ScalarProperty Name="Perfil_id" ColumnName="Perfil_id" />
+          <ScalarProperty Name="Persona_Id" ColumnName="Persona_Id" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sexo">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.Sexo">
+        <MappingFragment StoreEntitySet="Sexo">
+          <ScalarProperty Name="idSexo" ColumnName="idSexo" />
+          <ScalarProperty Name="nombreSexo" ColumnName="nombreSexo" />
+          <ScalarProperty Name="activo" ColumnName="activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TipoPostulante">
+      <EntityTypeMapping TypeName="RRHH_STOREModel.TipoPostulante">
+        <MappingFragment StoreEntitySet="TipoPostulante">
+          <ScalarProperty Name="idTipoPostulante" ColumnName="idTipoPostulante" />
+          <ScalarProperty Name="nombreTipoPostulante" ColumnName="nombreTipoPostulante" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,213 @@
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Baja.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Modificar.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\Windows 10\source\repos\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA8\RRHH_Store_Final(1)\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva 8 original\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVA 10\nueva9\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.ConsultaCV_Certificado.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.ConsultaCV_Certificado.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\NUEVO 11\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.ConsultaCV_Certificado.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\VERSION CON ID FUNCIONANDO\NUEVA2\Nueva carpeta V3\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.ConsultaCV_Certificado.resources
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\Familia Avila\Desktop\PRESENTACION NUEVA 2021\RRHH STORE\PRESENTACION\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.ConsultaCV_Certificado.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\PROYECTO RRHH STORE\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.ConsultaCV_Certificado.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\salon\Documents\LEÓN\PROYECTO LEÓN - G2\proyecto anterior\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe.config
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.exe
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\bin\Debug\RRHH_Store.pdb
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.dll
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.xml
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.AssemblyReference.cache
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Alta.resources
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.Consulta.resources
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.FiltroPreviaAlta.resources
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Login.resources
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Capa_Vistas.MenuPrincipal.resources
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.ConsultaCV_Certificado.resources
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.Properties.Resources.resources
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.csproj.CopyComplete
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.exe
+C:\Users\Leandro\Desktop\MiParte\ENTREGARFINAL\RRHH_Store\RRHH_Store\obj\Debug\RRHH_Store.pdb
